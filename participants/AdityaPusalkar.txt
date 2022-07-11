@@ -1,0 +1,5 @@
+Hello! My name is Aditya Pusalkar, and I've joined Swiggy as an SDE. 
+Currently I am learning git as part of the bootcamp. 
+I enjoy solving Puzzles, exploring Game Theory and Number Theory, 
+and playing Video Games.
+I also enjoy playing sports like Cricket, Badminton, and Table Tennis.
