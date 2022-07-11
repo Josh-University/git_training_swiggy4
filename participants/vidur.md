@@ -1,1 +1,1 @@
-# Hey, I am Vidur Kataria.
+# Hi, I am Vidur Kataria.
