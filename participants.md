@@ -8,3 +8,11 @@
 6. Karthik prathipati
 7. Ritu Agarwalla
 8. Aditya Shrivastav
+<<<<<<< HEAD
+=======
+9. Mani Brahma
+10. Shivam Joshi
+11. Ujjwal Yadav
+12. Aditya Pusalkar
+13. Dinesh Pamidi
+>>>>>>> 595832a28af9590fae001080470b4f809e1535c8
