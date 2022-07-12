@@ -6,3 +6,4 @@ Amrit Raj
 3. Vivek Kumar
 4. Yash Gautam
 5. Vidur Kataria
+6. Karthik prathipati
