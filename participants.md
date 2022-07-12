@@ -12,3 +12,4 @@ Amrit Raj
 9. Mani Brahma
 10. Shivam Joshi
 11. Ujjwal Yadav
+12. Aditya Pusalkar
